@@ -1,20 +1,4 @@
 # Car Accidents Analysis Using Clustering 
-
-This project provides a **complete, production-ready architecture** for analyzing car accident datasets using **unsupervised machine learning (clustering)**. Unlike a basic data science project, this implementation includes a modern **MLOps stack**, cloud-ready deployment patterns, CI/CD automation, and observability support.
-
-This README explains:
-
-- Project Overview
-- Key Features
-- Architecture Diagram
-- Technology Stack (Advanced)
-- Project Structure
-- How to Run (Local, Docker, Airflow, DVC, MLflow)
-- API Documentation (FastAPI)
-- Deployment (Docker & Kubernetes)
-- Monitoring & Logging
-- Recommended Improvements
-
 ---
 
 # 1. Project Overview
