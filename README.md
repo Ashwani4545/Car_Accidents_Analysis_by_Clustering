@@ -1,4 +1,4 @@
-# Car Accidents Analysis Using Clustering — Advanced Production-Grade README
+# Car Accidents Analysis Using Clustering 
 
 This project provides a **complete, production-ready architecture** for analyzing car accident datasets using **unsupervised machine learning (clustering)**. Unlike a basic data science project, this implementation includes a modern **MLOps stack**, cloud-ready deployment patterns, CI/CD automation, and observability support.
 
