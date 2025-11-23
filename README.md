@@ -38,7 +38,7 @@ The end-to-end workflow includes:
 
 ✔ Workflow orchestration using **Apache Airflow**
 
-### ✔ Real-time model inference using **FastAPI + Uvicorn**
+✔ Real-time model inference using **FastAPI + Uvicorn**
 
 ### ✔ Containerization using **Docker**
 
