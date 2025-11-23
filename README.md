@@ -40,7 +40,7 @@ The end-to-end workflow includes:
 
 ✔ Real-time model inference using **FastAPI + Uvicorn**
 
-### ✔ Containerization using **Docker**
+✔ Containerization using **Docker**
 
 ### ✔ Production deployment via **Kubernetes manifests**
 
