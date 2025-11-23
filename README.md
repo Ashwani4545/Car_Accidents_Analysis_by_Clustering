@@ -33,7 +33,7 @@ The end-to-end workflow includes:
 
 ✔ Modular Python source code (`src/`)
 
-### ✔ Data versioning using **DVC**
+✔ Data versioning using **DVC**
 
 ### ✔ Training experiments tracked using **MLflow**
 
