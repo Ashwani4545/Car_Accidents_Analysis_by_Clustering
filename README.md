@@ -46,7 +46,7 @@ The end-to-end workflow includes:
 
 ✔ Monitoring using **Prometheus metrics exporter**
 
-### ✔ Optional distributed processing using **PySpark / Dask** stubs
+✔ Optional distributed processing using **PySpark / Dask** stubs
 
 ---
 
