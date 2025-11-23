@@ -1,5 +1,4 @@
 # Car Accidents Analysis Using Clustering 
----
 
 # 1. Project Overview
 
