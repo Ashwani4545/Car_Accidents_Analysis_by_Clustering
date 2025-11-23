@@ -31,7 +31,7 @@ The end-to-end workflow includes:
 
 ✔ Modern end-to-end MLOps workflow
 
-S✔ Modular Python source code (`src/`)
+✔ Modular Python source code (`src/`)
 
 ### ✔ Data versioning using **DVC**
 
