@@ -1,0 +1,15 @@
+stages:
+  preprocess:
+    cmd: python src/data_preprocessing.py --input data/raw/accidents.csv --output data/processed/processed.csv
+    deps:
+      - src/data_preprocessing.py
+      - data/raw/accidents.csv
+    outs:
+      - data/processed/processed.csv
+  train:
+    cmd: python src/model_training_mlflow.py --input data/processed/processed.csv --k 5 --output models/best_model.joblib
+    deps:
+      - src/model_training_mlflow.py
+      - data/processed/processed.csv
+    outs:
+      - models/best_model.joblib

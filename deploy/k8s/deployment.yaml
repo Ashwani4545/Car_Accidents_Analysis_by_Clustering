@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: car-accidents-api
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: car-api
+  template:
+    metadata:
+      labels:
+        app: car-api
+    spec:
+      containers:
+        - name: api
+          image: car-accidents-api:latest
+          ports:
+            - containerPort: 8080
+          env:
+            - name: MODEL_PATH
+              value: /app/models/best_model.joblib
