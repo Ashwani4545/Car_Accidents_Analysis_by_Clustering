@@ -35,7 +35,7 @@ The end-to-end workflow includes:
 
 ✔ Data versioning using **DVC**
 
-### ✔ Training experiments tracked using **MLflow**
+✔ Training experiments tracked using **MLflow**
 
 ### ✔ Workflow orchestration using **Apache Airflow**
 
