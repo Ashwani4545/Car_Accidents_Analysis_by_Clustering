@@ -44,7 +44,7 @@ The end-to-end workflow includes:
 
 ✔ Production deployment via **Kubernetes manifests**
 
-### ✔ Monitoring using **Prometheus metrics exporter**
+✔ Monitoring using **Prometheus metrics exporter**
 
 ### ✔ Optional distributed processing using **PySpark / Dask** stubs
 
