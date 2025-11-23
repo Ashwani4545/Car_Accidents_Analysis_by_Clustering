@@ -29,7 +29,7 @@ The end-to-end workflow includes:
 
 # 2. Key Features
 
-### ✔ Modern end-to-end MLOps workflow
+✔ Modern end-to-end MLOps workflow
 
 ### ✔ Modular Python source code (`src/`)
 
