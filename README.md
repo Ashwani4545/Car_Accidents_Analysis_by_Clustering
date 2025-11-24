@@ -50,7 +50,7 @@ The end-to-end workflow includes:
 
 ---
 
-# 3. Architecture Diagram
+# Architecture Diagram
 
 ```
 Raw Data → DVC Storage → Preprocessing → MLflow Tracking → Model Registry
