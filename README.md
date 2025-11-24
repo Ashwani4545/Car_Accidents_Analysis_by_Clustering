@@ -211,7 +211,7 @@ Run the container:
 docker run -p 8080:8080 accident-api:latest
 ```
 
-### ☸️ 6.7 Kubernetes Deployment
+### ☸️ Kubernetes Deployment
 
 Apply manifests:
 
@@ -225,7 +225,7 @@ Check pods:
 kubectl get pods
 ```
 
-### 📈 6.8 Monitoring with Prometheus
+### 📈 Monitoring with Prometheus
 
 Start exporter:
 
