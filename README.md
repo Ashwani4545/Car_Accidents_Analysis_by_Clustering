@@ -195,7 +195,7 @@ POST /predict
 }
 ```
 
-# 🐳 6.6 Docker Deployment
+### 🐳 6.6 Docker Deployment
 
 Build the image:
 
