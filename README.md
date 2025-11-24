@@ -239,9 +239,7 @@ Visit metrics at:
 http://localhost:8000
 ```
 
----
-
-# 7. CI/CD Pipeline (GitHub Actions)
+### 7. CI/CD Pipeline (GitHub Actions)
 
 Every push to `main` triggers:
 
