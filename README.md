@@ -127,7 +127,7 @@ Car_Accidents_AdvancedStack_Project/
 
 # How to Run the Project
 
-### 🔧 6.1 Install Dependencies
+### 🔧 Install Dependencies
 
 ```
 python -m venv venv
@@ -135,14 +135,14 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 📂 6.2 DVC Setup
+### 📂 DVC Setup
 
 ```
 dvc init
 dvc repro          # runs `dvc.yaml` pipeline
 ```
 
-### 🔬 6.3 MLflow Tracking
+### 🔬 MLflow Tracking
 
 Start MLflow UI:
 
