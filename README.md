@@ -125,7 +125,7 @@ Car_Accidents_AdvancedStack_Project/
 
 # 6. How to Run the Project
 
-## 🔧 6.1 Install Dependencies
+### 🔧 6.1 Install Dependencies
 
 ```
 python -m venv venv
