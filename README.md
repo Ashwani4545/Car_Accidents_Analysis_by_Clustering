@@ -26,7 +26,7 @@ The end-to-end workflow includes:
 
 ---
 
-# Key Features
+## Key Features
 
 ✔ Modern end-to-end MLOps workflow
 
