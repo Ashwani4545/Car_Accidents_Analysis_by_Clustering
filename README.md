@@ -140,7 +140,7 @@ dvc init
 dvc repro          # runs `dvc.yaml` pipeline
 ```
 
-# 🔬 6.3 MLflow Tracking
+### 🔬 6.3 MLflow Tracking
 
 Start MLflow UI:
 
