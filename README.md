@@ -223,7 +223,7 @@ Check pods:
 kubectl get pods
 ```
 
-# 📈 6.8 Monitoring with Prometheus
+### 📈 6.8 Monitoring with Prometheus
 
 Start exporter:
 
