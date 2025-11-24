@@ -209,9 +209,7 @@ Run the container:
 docker run -p 8080:8080 accident-api:latest
 ```
 
----
-
-# ☸️ 6.7 Kubernetes Deployment
+### ☸️ 6.7 Kubernetes Deployment
 
 Apply manifests:
 
