@@ -159,7 +159,7 @@ Visit:
 http://localhost:5000
 ```
 
-### 🚦 6.4 Run the Pipeline Manually
+### 🚦 Run the Pipeline Manually
 
 Preprocess Data
 
@@ -173,7 +173,7 @@ python src/data_preprocessing.py --input data/raw/accidents.csv --output data/pr
 python src/model_training_mlflow.py --input data/processed/processed.csv --k 5 --output models/best_model.joblib
 ```
 
-### 🌐 6.5 Run FastAPI Model Server
+### 🌐 Run FastAPI Model Server
 
 ```
 uvicorn src.serve_fastapi:app --host 0.0.0.0 --port 8080
@@ -197,7 +197,7 @@ POST /predict
 }
 ```
 
-### 🐳 6.6 Docker Deployment
+### 🐳 Docker Deployment
 
 Build the image:
 
