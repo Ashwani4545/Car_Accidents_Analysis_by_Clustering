@@ -171,8 +171,6 @@ python src/data_preprocessing.py --input data/raw/accidents.csv --output data/pr
 python src/model_training_mlflow.py --input data/processed/processed.csv --k 5 --output models/best_model.joblib
 ```
 
----
-
 ### 🌐 6.5 Run FastAPI Model Server
 
 ```
@@ -196,8 +194,6 @@ POST /predict
   "severity": 3
 }
 ```
-
----
 
 # 🐳 6.6 Docker Deployment
 
