@@ -267,6 +267,6 @@ YAML in:
 
 ---
 
-# 9. License
+# License
 
 MIT License — free for personal and commercial use.
