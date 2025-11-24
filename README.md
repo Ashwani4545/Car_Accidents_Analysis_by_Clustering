@@ -60,7 +60,7 @@ Raw Data → DVC Storage → Preprocessing → MLflow Tracking → Model Registr
 
 
 
-# 4. Technology Stack (Advanced)
+# Technology Stack (Advanced)
 
 ### 🧠 Machine Learning
 
