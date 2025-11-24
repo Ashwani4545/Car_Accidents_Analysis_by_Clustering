@@ -175,7 +175,7 @@ python src/model_training_mlflow.py --input data/processed/processed.csv --k 5 -
 
 ---
 
-# 🌐 6.5 Run FastAPI Model Server
+### 🌐 6.5 Run FastAPI Model Server
 
 ```
 uvicorn src.serve_fastapi:app --host 0.0.0.0 --port 8080
