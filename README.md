@@ -157,8 +157,6 @@ Visit:
 http://localhost:5000
 ```
 
----
-
 ### 🚦 6.4 Run the Pipeline Manually
 
 Preprocess Data
