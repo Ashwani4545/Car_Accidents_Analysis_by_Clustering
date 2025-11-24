@@ -133,9 +133,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
----
-
-# 📂 6.2 DVC Setup
+### 📂 6.2 DVC Setup
 
 ```
 dvc init
