@@ -139,7 +139,6 @@ http://localhost:5000
 ```
 
 ### 🚦 Run the Pipeline Manually
-
 Preprocess Data
 
 ```
