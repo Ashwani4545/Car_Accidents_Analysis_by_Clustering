@@ -248,7 +248,7 @@ YAML in:
 
 ---
 
-# Recommended Improvements
+## Recommended Improvements
 
 - Add DB integration (Snowflake, PostgreSQL, BigQuery)
 - Create a Streamlit dashboard for interactive cluster visualization
