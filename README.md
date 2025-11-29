@@ -116,7 +116,7 @@ Car_Accidents_AdvancedStack_Project/
 
 ---
 
-# How to Run the Project
+## How to Run the Project
 
 ### 🔧 Install Dependencies
 
