@@ -47,7 +47,7 @@ Raw Data → DVC Storage → Preprocessing → MLflow Tracking → Model Registr
 ```
 
 ---
-## Technology Stack (Advanc
+## Technology Stack (Advan
 ### 🧠 Machine Learning
 
 - Scikit-learn (Clustering Models)
