@@ -27,7 +27,7 @@ The end-to-end workflow includes:
 ---
 
 ## Key Features
-
+```
 ✔ Modern end-to-end MLOps workflow
 
 ✔ Modular Python source code (`src/`)
@@ -47,7 +47,7 @@ The end-to-end workflow includes:
 ✔ Monitoring using **Prometheus metrics exporter**
 
 ✔ Optional distributed processing using **PySpark / Dask** stubs
-
+```
 ---
 
 # Architecture Diagram
