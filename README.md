@@ -181,19 +181,16 @@ POST /predict
 ### 🐳 Docker Deployment
 
 Build the image:
-
 ```
 docker build -t accident-api:latest ./deploy
 ```
 
 Run the container:
-
 ```
 docker run -p 8080:8080 accident-api:latest
 ```
 
 ### ☸️ Kubernetes Deployment
-
 Apply manifests:
 
 ```
