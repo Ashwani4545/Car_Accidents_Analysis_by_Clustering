@@ -145,19 +145,16 @@ python src/data_preprocessing.py --input data/raw/accidents.csv --output data/pr
 ```
 
 ### Train Model
-
 ```
 python src/model_training_mlflow.py --input data/processed/processed.csv --k 5 --output models/best_model.joblib
 ```
 
 ### 🌐 Run FastAPI Model Server
-
 ```
 uvicorn src.serve_fastapi:app --host 0.0.0.0 --port 8080
 ```
 
 ### API Endpoints
-
 ```
 GET  /health
 POST /predict
@@ -199,7 +196,6 @@ kubectl get pods
 ```
 
 ### 📈 Monitoring with Prometheus
-
 Start exporter:
 
 ```
@@ -207,7 +203,6 @@ python src/metrics_exporter.py
 ```
 
 Visit metrics at:
-
 ```
 http://localhost:8000
 ```
@@ -215,7 +210,6 @@ http://localhost:8000
 ---
 
 ## CI/CD Pipeline (GitHub Actions)
-
 Every push to `main` triggers:
 
 - Dependency install
@@ -223,7 +217,6 @@ Every push to `main` triggers:
 - Future: automated DVC + MLflow jobs
 
 YAML in:
-
 ```
 .github/workflows/ci.yml
 ```
