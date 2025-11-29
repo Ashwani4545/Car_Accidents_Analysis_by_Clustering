@@ -121,7 +121,6 @@ pip install -r requirements.txt
 ```
 
 ### 📂 DVC Setup
-
 ```
 dvc init
 dvc repro          # runs `dvc.yaml` pipeline
