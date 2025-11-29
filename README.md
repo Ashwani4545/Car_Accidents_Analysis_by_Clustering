@@ -40,7 +40,6 @@ The end-to-end workflow includes:
 ```
 ---
 ## Architecture Diagram
-
 ```
 Raw Data → DVC Storage → Preprocessing → MLflow Tracking → Model Registry
          ↓ Airflow DAG → Training → Best Model → FastAPI Serving → Monitoring (Prometheus)
@@ -48,7 +47,6 @@ Raw Data → DVC Storage → Preprocessing → MLflow Tracking → Model Registr
 ```
 
 ---
-
 ## Technology Stack (Advanced)
 
 ### 🧠 Machine Learning
