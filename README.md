@@ -136,7 +136,6 @@ mlflow server \
 ```
 
 Visit:
-
 ```
 http://localhost:5000
 ```
