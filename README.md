@@ -140,7 +140,6 @@ http://localhost:5000
 
 ### 🚦 Run the Pipeline Manually
 Preprocess Data
-
 ```
 python src/data_preprocessing.py --input data/raw/accidents.csv --output data/processed/processed.csv
 ```
