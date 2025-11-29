@@ -1,5 +1,5 @@
 # Car Accidents Analysis Using Clustering 
-
+---
 ## Project Overview
 
 This project analyzes vehicle accident records and groups them into **clusters** based on time, location, and severity patterns. The goal is to:
