@@ -33,7 +33,6 @@ The end-to-end workflow includes:
 ✔ Data versioning using **DVC**
 ✔ Training experiments tracked using **MLflow**
 ✔ Workflow orchestration using **Apache Airflow**
-
 ✔ Real-time model inference using **FastAPI + Uvicorn**
 
 ✔ Containerization using **Docker**
