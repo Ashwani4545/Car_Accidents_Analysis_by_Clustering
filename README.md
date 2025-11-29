@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project analyzes vehicle accident records and groups them into **clusters** based on time, location, and severity patterns. The goal is to:
-
+```
 - Identify hidden behavioral and environmental patterns
 - Support traffic safety planning
 - Detect high-risk accident zones
@@ -23,7 +23,7 @@ The end-to-end workflow includes:
 - Model serving via API
 - Docker & Kubernetes deployment
 - Full pipeline orchestration
-
+```
 ---
 
 ## Key Features
