@@ -34,7 +34,6 @@ The end-to-end workflow includes:
 ✔ Training experiments tracked using **MLflow**
 ✔ Workflow orchestration using **Apache Airflow**
 ✔ Real-time model inference using **FastAPI + Uvicorn**
-
 ✔ Containerization using **Docker**
 
 ✔ Production deployment via **Kubernetes manifests**
