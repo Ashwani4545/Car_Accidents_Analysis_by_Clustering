@@ -36,7 +36,6 @@ The end-to-end workflow includes:
 ✔ Real-time model inference using **FastAPI + Uvicorn**
 ✔ Containerization using **Docker**
 ✔ Production deployment via **Kubernetes manifests**
-
 ✔ Monitoring using **Prometheus metrics exporter**
 
 ✔ Optional distributed processing using **PySpark / Dask** stubs
