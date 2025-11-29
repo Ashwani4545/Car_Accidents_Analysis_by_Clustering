@@ -82,7 +82,6 @@ Raw Data → DVC Storage → Preprocessing → MLflow Tracking → Model Registr
 ---
 
 ## Project Structure
-
 ```
 Car_Accidents_AdvancedStack_Project/
 │
