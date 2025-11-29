@@ -40,7 +40,6 @@ The end-to-end workflow includes:
 ✔ Optional distributed processing using **PySpark / Dask** stubs
 ```
 ---
-
 ## Architecture Diagram
 
 ```
