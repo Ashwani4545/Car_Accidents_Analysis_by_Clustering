@@ -232,7 +232,7 @@ http://localhost:8000
 
 ---
 
-# CI/CD Pipeline (GitHub Actions)
+## CI/CD Pipeline (GitHub Actions)
 
 Every push to `main` triggers:
 
