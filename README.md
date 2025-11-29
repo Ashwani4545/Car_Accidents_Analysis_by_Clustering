@@ -32,7 +32,6 @@ The end-to-end workflow includes:
 ✔ Modular Python source code (`src/`)
 ✔ Data versioning using **DVC**
 ✔ Training experiments tracked using **MLflow**
-
 ✔ Workflow orchestration using **Apache Airflow**
 
 ✔ Real-time model inference using **FastAPI + Uvicorn**
