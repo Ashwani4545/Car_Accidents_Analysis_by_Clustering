@@ -179,7 +179,6 @@ POST /predict
 ```
 
 ### 🐳 Docker Deployment
-
 Build the image:
 ```
 docker build -t accident-api:latest ./deploy
