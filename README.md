@@ -15,7 +15,6 @@ Clustering algorithms used:
 - **Gaussian Mixture Models (GMM)**
 
 The end-to-end workflow includes:
-
 - ETL preprocessing
 - Feature engineering
 - Scalable model training
