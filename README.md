@@ -37,7 +37,6 @@ The end-to-end workflow includes:
 ✔ Containerization using **Docker**
 ✔ Production deployment via **Kubernetes manifests**
 ✔ Monitoring using **Prometheus metrics exporter**
-
 ✔ Optional distributed processing using **PySpark / Dask** stubs
 ```
 ---
