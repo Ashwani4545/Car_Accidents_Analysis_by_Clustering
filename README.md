@@ -29,7 +29,6 @@ The end-to-end workflow includes:
 ## Key Features
 ```
 ✔ Modern end-to-end MLOps workflow
-
 ✔ Modular Python source code (`src/`)
 
 ✔ Data versioning using **DVC**
